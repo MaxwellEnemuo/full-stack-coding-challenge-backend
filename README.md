@@ -22,11 +22,11 @@ We'd love to hear your thoughts on some of these questions. Please don't spend m
 - - Easy and fluid way of communicating
 - - Supportive and approachable team members
 
-## Deliverables
+## Video Link
 
-- Invite [@pieterbeulque](https://github.com/pieterbeulque) and [@umartayyab](https://github.com/umartayyab) to a GitHub repo with your completed project
-- A video of your screen recording (unlisted YouTube video, Loom, … anything works)
-- Answers to the questions above can be either in the video or written down in the README of your repo
+https://drive.google.com/file/d/1_2HKLeHPza5fA4gMsBaLktSVNeRZIVqr/view?usp=sharing
+
+[@pieterbeulque](https://github.com/pieterbeulque) [@umartayyab](https://github.com/umartayyab)
 
 ## Getting Started
 
