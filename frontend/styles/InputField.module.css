@@ -1,0 +1,14 @@
+.input {
+    border: 1px solid black;
+    padding: 6px 10px;
+    margin: 10px 0px;
+    display: flex;
+    border-radius: 5px;
+}
+
+.button {
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    padding: 5px 10px;
+    background-color: lightblue;
+}
