@@ -6,7 +6,7 @@ We'd love to hear your thoughts on some of these questions. Please don't spend m
 
 - - Write unit and integration tests before shipping
 - - Document APIs using swagger
-- - Secure the our APIs using JWT
+- - Secure APIs using JWT
 - - Improve the search by making it case sensitive
 - - Use monitoring and logging to spot errors
 
