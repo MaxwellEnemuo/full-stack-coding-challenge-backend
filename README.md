@@ -8,6 +8,7 @@ We'd love to hear your thoughts on some of these questions. Please don't spend m
 - - Document APIs using swagger
 - - Secure APIs using JWT
 - - Improve the search by making it case insensitive
+- - Add pagination
 - - Use better monitoring and logging to spot errors
 
 ## How would you scale this to handle high amounts of traffic?
