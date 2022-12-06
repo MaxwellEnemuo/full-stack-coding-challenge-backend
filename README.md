@@ -4,7 +4,7 @@ We'd love to hear your thoughts on some of these questions. Please don't spend m
 
 ## What are some edge cases you would take care of before shipping this to production?
 
-- - Write unit and integration tests before shipping
+- - Write unit and integration tests
 - - Document APIs using swagger
 - - Secure APIs using JWT
 - - Improve the search by making it case sensitive
