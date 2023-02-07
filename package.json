@@ -1,7 +1,6 @@
 {
-  "name": "full-stack-coding-challenge",
+  "name": "full-stack-nestjs-nextjs-app",
   "version": "0.1.0",
-  "repository": "git@github.com:tilla-tech/full-stack-coding-challenge-backend.git",
   "license": "UNLICENSED",
   "private": true,
   "workspaces": [
